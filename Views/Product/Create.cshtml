@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+    <html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+   <h1>Add Product</h1>
+   <form action="/Product/Add" method="post">
+    <div class="mb-3">
+      
+        <input type="text" class="form-control" name="Name" placeholder="Product Name">
+    </div>
+    <div class="mb-3">
+
+
+            <textarea name="Description" class="form-control" placeholder="Product Description" rows="3"></textarea>
+
+    </div>
+        <div class="input-group mb-3">
+            <input type="text" name="Price" class="form-control" aria-label="Dollar amount (with dot and two decimal places)">
+            <span class="input-group-text">$</span>
+            <span class="input-group-text">0.00</span>
+        </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Create</button>
+		</div>
+	</form>
+    </body>
+    </html>

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 363,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:50:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T17:00:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T17:50:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T16:59:43.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:10:06.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:02:15.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-22T18:07:29.43Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
