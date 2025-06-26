@@ -18,6 +18,8 @@
                 <th scope="col">Delete</th>
 
                 <th scope="col">Price</th>
+                <th scope="col">Edit</th>
+
             </tr>
         </thead>
         <tbody>
@@ -34,6 +36,9 @@
                     </td>
                     
                     <td>@item.Price</td>
+                    <td>
+                        <a href="/Product/Edit/@item.Id" class="link-danger text-decoration-none link-offset-2 link-underline-opacity-25">Edit</a>
+                    </td>
                     
                 </tr>
             }
