@@ -14,22 +14,40 @@ namespace WebApplication1.Controllers
         }
         public ViewResult Create()
         {
-            return View();
+            return View(new Category());
         }
-        public RedirectToActionResult Add(Category request)
+        public IActionResult Add(Category request)
         {
+            if (ModelState.IsValid)
+            {
             context.Categories.Add(request);
             context.SaveChanges();
             return RedirectToAction("Index");
+            }
+            else
+            {
+                return View("Create" , request);
+
+            }
+           
+           
         }
         public ViewResult Details(int id)
         {
-            Console.WriteLine(id);
 
-    var product = context.Categories.Find(id);
-
-
-    return View(product);
+             var product = context.Categories.Find(id);
+             return View(product);
+        }
+        public IActionResult Delete(int id)
+        {
+            var product = context.Categories.Find(id);
+            if(product is null)
+            {
+                return View("NotFound");
+            }
+            context.Categories.Remove(product);
+            context.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }

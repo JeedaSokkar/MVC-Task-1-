@@ -170,3 +170,4 @@ C:\Users\Laptop Center\OneDrive\Desktop\BackEnd\MVC\WebApplication1\obj\Debug\ne
 C:\Users\Laptop Center\OneDrive\Desktop\BackEnd\MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\Laptop Center\OneDrive\Desktop\BackEnd\MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Laptop Center\OneDrive\Desktop\BackEnd\MVC\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Laptop Center\OneDrive\Desktop\BackEnd\MVC\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

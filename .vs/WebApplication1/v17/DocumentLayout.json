@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|c:\\users\\laptop center\\onedrive\\desktop\\backend\\mvc\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{43FDDF78-51CF-492C-BBEB-FEE96BB840D6}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 363,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,38 +39,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T16:50:13.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Details.cshtml",
-              "RelativeToolTip": "Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T17:00:14.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T17:50:54.772Z"
+              "WhenOpened": "2025-06-26T00:15:33.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,46 +57,36 @@
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T16:59:43.095Z",
+              "WhenOpened": "2025-06-25T23:58:24.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:10:06.893Z"
+              "WhenOpened": "2025-06-25T21:27:54.806Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext .cs",
-              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Data\\ApplicationDbContext .cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext .cs",
-              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Data\\ApplicationDbContext .cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T17:02:15.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Laptop Center\\OneDrive\\Desktop\\BackEnd\\MVC\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T18:07:29.43Z"
+              "WhenOpened": "2025-06-22T16:50:13.054Z",
+              "EditorCaption": ""
             }
           ]
         },
