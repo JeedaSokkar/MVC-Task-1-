@@ -1,13 +1,19 @@
+# MVC Task 1
 
+This is a basic ASP.NET Core MVC web application for managing products using a SQL database.
 
-create product controller with 2 action : 
+## Project Features
 
-1- index
-2- create
-3- details
-4- delete
+- View all products
+- Add new product
+- View product details
+- Delete product
+- Handle not-found pages
 
-create index view
-create create  view
-create details  view
+## Technologies Used
 
+- ASP.NET Core MVC
+- Entity Framework Core
+- Razor Views
+- Bootstrap
+- SQL Server
